@@ -14,6 +14,7 @@ class People {
 class Person {
     private $name;
     private $info;
+    private $email;
     private $image;
     
     public function __construct($path) {
@@ -24,6 +25,7 @@ class Person {
         
         $this->name = $all_info[0];
         $this->info = $all_info[1];
+        $this->email = $all_info[2];
         $this->image = Path::join($person_path, "image.jpg");
     }
     
@@ -37,6 +39,10 @@ class Person {
     
     public function info() {
         return $this->info;
+    }
+    
+    public function email() {
+        return $this->email;
     }
 }
 ?>
