@@ -8,7 +8,7 @@
         <div id="about" class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">
-                    Welcome to Modern Business
+                    Welcome to Harambe Software
                 </h1>
             </div>
             <div class="col-md-4">
@@ -17,7 +17,7 @@
                         <h4><i class="fa fa-fw fa-check"></i> Our Goal</h4>
                     </div>
                     <div class="panel-body">
-                        <p>Our goal is to develop lightweight and useful mobile applications. We are working in colloboration with our team of nine engineers. For now we are developing for Android devices. </p>
+                        <p>Our goal is to develop lightweight and useful mobile applications. We are working in collaboration with a team of nine engineers. For now we are developing for Android devices. </p>
                         <a href="#" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
@@ -28,7 +28,7 @@
                         <h4><i class="fa fa-fw fa-gift"></i> Our Projects</h4>
                     </div>
                     <div class="panel-body">
-                        <p>We are making a project for Software Engineering lecture at Anadolu University. We are sharing ideas about project and making plans. </p>
+                        <p>We are making a project for our Software Engineering class. We improve by sharing ideas and working together. </p>
                         <a href="#" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                         <h4><i class="fa fa-fw fa-compass"></i> FLOSS</h4>
                     </div>
                     <div class="panel-body">
-                        <p>We respect your freedom. As a result of this we are making our applications free (as in freedom). We offer best solutions for the community. Harambe Software is a company that you can trust. </p>
+                        <p>We respect your freedom. As a result, we are making our applications free (as in freedom). We offer the best solutions for the community. Harambe Software is a company that you can trust. </p>
                         <a href="#" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
