@@ -13,7 +13,7 @@
     <link href="<?php echo CSS_FOLDER; ?>/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="<?php echo CSS_FOLDER; ?>/modern-business.css" rel="stylesheet">
+    <link href="<?php echo CSS_FOLDER_DEFAULT; ?>/modern-business.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="<?php echo FONT_AWESOME_FOLDER; ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css">
