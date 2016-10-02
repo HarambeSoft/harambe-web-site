@@ -72,13 +72,13 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="fill" style="background-image:url('https://9to5google.files.wordpress.com/2015/07/maps-send-to-device.jpg&text=Harambe Software');"></div>
+                <div class="fill" style="background-image:url('https://9to5google.files.wordpress.com/2015/07/maps-send-to-device.jpg');"></div>
                 <div class="carousel-caption">
                     <h2>Caption 1</h2>
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('http://www.pbs.org/wnet/nature/files/2016/06/harambe-22-1.jpg&text=RIP Harambe');"></div>
+                <div class="fill" style="background-image:url('http://www.pbs.org/wnet/nature/files/2016/06/harambe-22-1.jpg');"></div>
                 <div class="carousel-caption">
                     <h2>Caption 2</h2>
                 </div>
