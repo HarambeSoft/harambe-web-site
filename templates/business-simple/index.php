@@ -50,7 +50,7 @@
         <!-- Portfolio Section -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Our Engineers</h2>
+                <h2 class="page-header">Meet the Team</h2>
             </div>
             <?php
                 require_once("person.php");
