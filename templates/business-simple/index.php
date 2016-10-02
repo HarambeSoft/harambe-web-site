@@ -28,7 +28,7 @@
                         <h4><i class="fa fa-fw fa-gift"></i> Our Projects</h4>
                     </div>
                     <div class="panel-body">
-                        <p>We are making a project for our Software Engineering class. We improve by sharing ideas and working together. </p>
+                        <p>We are making a project for our Software Engineering class which is currently under development. We improve by sharing ideas and working together.  <a href="https://github.com/HarambeSoft/">Feel free to inspect our work.</a> </p>
                         <a href="#" class="btn btn-default">Learn More</a>
                     </div>
                 </div>
