@@ -84,7 +84,7 @@
                 </div>
             </div>
             <div class="item">
-                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Three');"></div>
+                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Harambe Software');"></div>
                 <div class="carousel-caption">
                     <h2>We make apps for living</h2>
                 </div>
