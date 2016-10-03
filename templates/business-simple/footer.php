@@ -7,7 +7,7 @@
                     </p>
                 </div>
                 <div class="col-md-4">
-                    <a class="btn btn-lg btn-default btn-block" href="#">Call to Action</a>
+                    <a class="btn btn-lg btn-default btn-block" href="#">Go Top</a>
                 </div>
             </div>
         </div>
