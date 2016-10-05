@@ -22,7 +22,7 @@
         <!-- Map Column -->
         <div class="col-md-8">
             <!-- Embedded Google Map -->
-            <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
+            <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1532.289553159518!2d30.53148692612151!3d39.81643199483466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc3fd651b06c63%3A0x588a36c4fd0d8dd1!2zQW5hZG9sdSDDnG52LjIgRXlsw7xsIEthbXDDvHPDvA!5e0!3m2!1sen!2sus!4v1475701742999"></iframe>
         </div>
         <!-- Contact Details Column -->
         <div class="col-md-4">
