@@ -1,5 +1,10 @@
 <?php
 require_once("template.php");
 
-include(Template::index());
+if(isset($_GET['page'])) {
+    $page = $_GET['page'];
+    include(Template::page($page));
+} else {
+    include(Template::index());   
+}
 ?>

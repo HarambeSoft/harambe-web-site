@@ -1,6 +1,46 @@
 <?php require_once("config.php"); ?>
 <?php include("header.php"); ?>
 
+    <!-- Header Carousel -->
+    <header id="myCarousel" class="carousel slide">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <div class="fill" style="background-image:url('https://9to5google.files.wordpress.com/2015/07/maps-send-to-device.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>Welcome to Harambe Software</h2>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('http://www.pbs.org/wnet/nature/files/2016/06/harambe-22-1.jpg');"></div>
+                <div class="carousel-caption">
+                    <h2>RIP Harambe</h2>
+                </div>
+            </div>
+            <div class="item">
+                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Harambe Software');"></div>
+                <div class="carousel-caption">
+                    <h2>We make apps for living</h2>
+                </div>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
+    </header>
+
     <!-- Page Content -->
     <div class="container">
 
@@ -62,5 +102,17 @@
         <!-- /.row -->
 
         <hr>
-
+        <!-- Call to Action Section -->
+        <div id="contact" class="well">
+            <div class="row">
+                <div class="col-md-8">
+                    <p> 
+                        <a href="https://github.com/HarambeSoft/">GitHub</a>
+                    </p>
+                </div>
+                <div class="col-md-4">
+                    <a class="btn btn-lg btn-default btn-block" href="#">Go Top</a>
+                </div>
+            </div>
+        </div>
 <?php include("footer.php"); ?>

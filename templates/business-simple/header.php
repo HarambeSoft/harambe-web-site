@@ -39,19 +39,30 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html"><?php echo TITLE; ?></a>
+                <a class="navbar-brand" href="?page=index"><?php echo TITLE; ?></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="#about">About</a>
-                    </li>
-                    <li>
                         <a href="#people">People</a>
                     </li>
                     <li>
-                        <a href="#contact">Contact</a>
+                        <a href="?page=contact  ">Contact</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="?page=project">Project Name Goes Here</a>
+                            </li>
+                        </ul>
+                    </li>
+                   <li>
+                        <a href="#about">About</a>
+                    </li>
+                   <li>
+                        <a href="?page=harambe"">Harambe</a>
                     </li>
                 </ul>
             </div>
@@ -59,43 +70,3 @@
         </div>
         <!-- /.container -->
     </nav>
-    
-    <!-- Header Carousel -->
-    <header id="myCarousel" class="carousel slide">
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
-        </ol>
-
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner">
-            <div class="item active">
-                <div class="fill" style="background-image:url('https://9to5google.files.wordpress.com/2015/07/maps-send-to-device.jpg');"></div>
-                <div class="carousel-caption">
-                    <h2>Welcome to Harambe Software</h2>
-                </div>
-            </div>
-            <div class="item">
-                <div class="fill" style="background-image:url('http://www.pbs.org/wnet/nature/files/2016/06/harambe-22-1.jpg');"></div>
-                <div class="carousel-caption">
-                    <h2>RIP Harambe</h2>
-                </div>
-            </div>
-            <div class="item">
-                <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Harambe Software');"></div>
-                <div class="carousel-caption">
-                    <h2>We make apps for living</h2>
-                </div>
-            </div>
-        </div>
-
-        <!-- Controls -->
-        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-            <span class="icon-prev"></span>
-        </a>
-        <a class="right carousel-control" href="#myCarousel" data-slide="next">
-            <span class="icon-next"></span>
-        </a>
-    </header>
