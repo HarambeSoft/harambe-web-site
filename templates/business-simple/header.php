@@ -45,10 +45,10 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="#people">People</a>
+                        <a href="?page=index#people">People</a>
                     </li>
                     <li>
-                        <a href="?page=contact  ">Contact</a>
+                        <a href="?page=contact">Contact</a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
@@ -59,10 +59,10 @@
                         </ul>
                     </li>
                    <li>
-                        <a href="#about">About</a>
+                        <a href="?page=harambe"">Harambe</a>
                     </li>
                    <li>
-                        <a href="?page=harambe"">Harambe</a>
+                        <a href="?page=index#about">About</a>
                     </li>
                 </ul>
             </div>
