@@ -54,7 +54,7 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="?page=project">Project Name Goes Here</a>
+                                <a href="?page=project">(Not ready yet)</a>
                             </li>
                         </ul>
                     </li>
