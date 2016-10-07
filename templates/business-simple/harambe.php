@@ -29,7 +29,9 @@
                 Maybe it was the right decision, however he should not have been put in a cage in the first place.
                 Animals should be free, and so are the softwares.
                 <br>
-                As long as he is remembered, he will not really die at all.</p>
+                As long as he is remembered, he will not really die at all.
+                <small><a href="https://en.wikipedia.org/wiki/Killing_of_Harambe"> Further reading</a></small>
+            </p>
         </div>
     </div>
     <!-- /.row -->
