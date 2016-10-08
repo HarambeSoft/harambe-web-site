@@ -22,7 +22,7 @@
         <!-- Map Column -->
         <div class="col-md-8">
             <!-- Embedded Google Map -->
-            <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1532.289553159518!2d30.53148692612151!3d39.81643199483466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc3fd651b06c63%3A0x588a36c4fd0d8dd1!2zQW5hZG9sdSDDnG52LjIgRXlsw7xsIEthbXDDvHPDvA!5e0!3m2!1sen!2sus!4v1475701742999"></iframe>
+            <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d766.1592895587171!2d30.53465199789471!3d39.81513006334553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cc3fd16c128503%3A0x3667dcedef4ac11c!2sAnadolu+%C3%9Cniversitesi+M%C3%BChendislik+Fak%C3%BCltesi!5e0!3m2!1sen!2sus!4v1475925933883"></iframe>
         </div>
         <!-- Contact Details Column -->
         <div class="col-md-4">
