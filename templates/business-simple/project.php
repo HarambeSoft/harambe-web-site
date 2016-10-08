@@ -24,7 +24,7 @@
         <!-- Sidebar Column -->
         <div class="col-md-3">
             <div class="list-group">
-                <a href="http://harambesoftware.com/" class="list-group-item">Home</a>
+                <a href="index.html" class="list-group-item">Home</a>
                 <a href="about.html" class="list-group-item">About</a>
                 <a href="services.html" class="list-group-item">Services</a>
                 <a href="contact.html" class="list-group-item">Contact</a>
