@@ -28,6 +28,7 @@
                   <h3 class="panel-title">Introduction</h3>
                 </div>
                 <div class="panel-body list-group">
+                        <a href="?page=project&detail=goal" class="list-group-item">Project Goal</a>
                         <a href="?page=project&detail=title" class="list-group-item">Project Title</a>
                         <a href="?page=project&detail=definition" class="list-group-item">Project Definition</a>
                         <a href="?page=project&detail=scope" class="list-group-item">Project Scope</a>
