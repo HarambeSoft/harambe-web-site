@@ -34,6 +34,7 @@
                         <a href="?page=project&detail=scope" class="list-group-item">Project Scope</a>
                         <a href="?page=project&detail=application-areas" class="list-group-item">Application Areas</a>
                         <a href="?page=project&detail=background" class="list-group-item">Background</a>
+                        <a href="?page=project&detail=related-works" class="list-group-item">Related Works</a>
                 </div>
             </div>
         </div>
