@@ -56,6 +56,9 @@
                             <li>
                                 <a href="?page=project">"+1" Project</a>
                             </li>
+                             <li>
+                                <a href="files/report.pdf">Project Report</a>
+                             </li>
                         </ul>
                     </li>
                    <li>
